@@ -1,9 +1,7 @@
 ---
 name: work-log
 version: "3.0.0"
-description: |
-  Query session work logs. Hooks auto-record to ~/.claude/data/logs/ as JSONL.
-  This skill queries and searches the recorded logs.
+description: 세션 작업 로그 조회/검색
 allowed-tools: Bash
 ---
 

@@ -1,5 +1,5 @@
 ---
-description: Fork current session into a new iTerm2 pane
+description: 현재 세션을 iTerm2 새 패널로 포크
 allowed-tools: Bash
 ---
 

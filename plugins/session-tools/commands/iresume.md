@@ -1,5 +1,5 @@
 ---
-description: Resume a Claude session in a new iTerm2 pane
+description: 과거 세션을 iTerm2 새 패널로 재개
 allowed-tools: Bash
 ---
 

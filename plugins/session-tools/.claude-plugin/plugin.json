@@ -1,7 +1,7 @@
 {
   "name": "session-tools",
   "version": "1.0.0",
-  "description": "Claude Code session management toolkit: work logging, session forking (iTerm2), and session resuming with auto-directory detection.",
+  "description": "세션 관리 도구: 작업 로그 조회, 세션 포크(iTerm2), 세션 재개",
   "author": {
     "name": "welt"
   },
