@@ -8,7 +8,7 @@
     {
       "name": "session-tools",
       "description": "Session management toolkit: work logging, session forking (iTerm2), and session resuming with auto-directory detection.",
-      "source": ".",
+      "source": "./plugins/session-tools",
       "version": "1.0.0"
     }
   ]
