@@ -1,0 +1,15 @@
+{
+  "name": "welt-claude-tools",
+  "description": "Claude Code productivity tools by welt",
+  "owner": {
+    "name": "welt"
+  },
+  "plugins": [
+    {
+      "name": "session-tools",
+      "description": "Session management toolkit: work logging, session forking (iTerm2), and session resuming with auto-directory detection.",
+      "source": ".",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "name": "session-tools",
+  "version": "1.0.0",
+  "description": "Claude Code session management toolkit: work logging, session forking (iTerm2), and session resuming with auto-directory detection.",
+  "author": {
+    "name": "welt"
+  },
+  "keywords": ["session", "logging", "iterm2", "fork", "resume", "work-log"]
+}
